@@ -1,0 +1,2 @@
+body{font:16px/1.6 system-ui;color:#223047;margin:20px}button,input,select{font:inherit}button{padding:8px 14px;border:1px solid #9dacbe;border-radius:5px;background:#edf2ff;cursor:pointer}button:focus-visible,a:focus-visible{outline:3px solid #b46c00;outline-offset:3px}img{max-width:100%}[hidden]{display:none!important}
+body.dark { background: #172233; color: #f4f7fc; }
